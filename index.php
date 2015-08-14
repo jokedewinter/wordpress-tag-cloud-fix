@@ -3,7 +3,7 @@
  * ------------------------------------------------------------------------------------------------- 
  * Enhance the tag cloud widget
  *
- * The standard WordPress tag cloud wiget is shocking. 
+ * The standard WordPress tag cloud widget is shocking. 
  * It adds inline CSS font sizing and offers no way to alter or add to 
  * the class attribute of the tag link. This is an attempt to fix that.
  * 
